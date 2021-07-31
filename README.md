@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/profile-card-done-with-html-and-css-GcSmlMSJx)
 - Live Site URL: [Live Site URL](https://semirteskeredzic.github.io/profile-card-component/)
 
 ## My process
